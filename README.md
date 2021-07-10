@@ -1,4 +1,4 @@
 # boatAlongPath
 boat animation along path using gsap
 
-Live View:   https://github.com/minhaj57sorder/boatAlongPath/blob/main/index.html
+Live View:   https://minhaj57sorder.github.io/boatAlongPath/index.html
